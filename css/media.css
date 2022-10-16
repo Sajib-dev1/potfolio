@@ -1,0 +1,368 @@
+@media(min-width:1200px) and (max-width:1399px){
+    /* ==========banner part start========= */
+    .item-text {
+        height: 320px;
+    }
+    /* ==========banner part end=========== */
+    /* ==========view part end=========== */
+    .project-wrep {
+        height: 450px;
+    }
+    .project-wreper {
+        height: 450px;
+    }
+    /* ==========view part end=========== */
+    /* ==========my portfoliow part end=========== */
+    .percs-item h3 {
+        font-size: 55px;
+    }
+    /* ==========my portfoliow part end=========== */
+}
+@media(min-width:992px) and (max-width:1199px){
+    /* ========Navber part start========== */
+    .navbar-nav .nav-item .nav-link {
+        padding-right: 15px;
+        font-size: 15px;
+    }
+    /* ========Navber part end============ */
+    /* ========Banner part start========== */
+    .type-start {
+        left: 80%;
+    }
+    .item-text {
+        height: 370px;
+    }
+    /* ========Banner part end============ */
+    /* ========view part part start========== */
+    .project-wrep {
+        height: 400px;
+    }
+    .overlay a {
+        font-size: 13px;
+    }
+    .project-wreper {
+        height: 400px;
+    }
+    /* ========view part part end============ */
+    /* ========fewther part start========== */
+    #awesome .head h3 {
+        font-size: 50px;
+    }
+    /* ========fewther part end============ */
+    /* ========performence part start========== */
+    .progress-bar .progress {
+        height: 40px;
+    }
+    .progress-bar {
+        height: 40px;
+    }
+    .performen-item h3 {
+        font-size: 45px;
+    }
+    .performance-chart h4 {
+        font-size: 45px;
+    }
+    /* ========performence part end============ */
+    /* ========castomer part start========== */
+    .costomer-head h3 {
+        font-size: 45px;
+    }
+    /* ========castomer part end============ */
+    /* ========faq part start========== */
+    .faq-text h3 {
+        font-size: 45px;
+    }
+    /* ========faq part end============ */
+    /* ========my potfoliow part start========== */
+    .percs-item h3 {
+        font-size: 45px;
+    }
+    /* ========my potfoliow part end============ */
+}
+@media(min-width:768px) and (max-width:991px){
+    /* ===========Navber part start========== */
+    .navbar.sticke-menu {
+        padding-top: 0px;
+        padding-bottom: 0px;
+    }
+    .navbar {
+        position: sticky;
+    }
+    /* ===========Navber part end============ */
+    /* ===========banner part start============ */
+    #banner {
+        padding: 100px 0px;
+    }
+    .back-text .main {
+        font-size: 62px;
+    }
+    .type-start {
+        left: 73%;
+    }
+    /* ===========banner part end============ */
+    /* ===========demo part start============ */
+    .project-wrep {
+        height: 400px;
+        margin-bottom: 24px;
+    }
+    .overlay a {
+        font-size: 14px;
+    }
+    .project-wreper {
+        height: 400px;
+    }
+    /* ===========demo part end============ */
+    /* ===========awesome part start============ */
+    #awesome .head h3 {
+        font-size: 45px;
+    }
+    /* ===========awesome part end============ */
+    /* ===========performence part end============ */
+    .performen-item h3 {
+        font-size: 35px;
+    }
+    .performance-chart h4 {
+        font-size: 35px;
+    }
+    .progress-bar .progress {
+        height: 40px;
+    }
+    .progress-bar {
+        height: 40px;
+    }
+    /* ===========performence part end============ */
+    /* ===========castomer part start============ */
+    .costomer-head h3 {
+        font-size: 45px;
+    }
+    /* ===========castomer part end============ */
+    /* ===========faq part end============ */
+    .faq-text h3 {
+        font-size: 45px;
+    }
+    .sroch-faq-item {
+        margin-top: 50px;
+    }
+    /* ===========faq part end============ */
+    /* ===========my potfolio part start============ */
+    .percs-item h3 {
+        font-size: 45px;
+    }
+    /* ===========my potfolio part end============ */
+    /* ===========coppy part start============ */
+    .coppy-text p {
+        font-size: 13px;
+    }
+    /* ===========coppy part end============ */
+}
+@media(min-width:576px) and (max-width:767px){
+    /* ===========Navber part start========== */
+    .navbar.sticke-menu {
+        padding-top: 0px;
+        padding-bottom: 0px;
+    }
+    .navbar {
+        position: sticky;
+    }
+    /* ===========Navber part end============ */
+    /* ===========banner part start========== */
+    #banner {
+        padding: 40px 0px;
+    }
+    .back-text .main {
+        padding-right: 0px;
+        font-size: 45px;
+    }
+    .typed_wrap h1 {
+        font-size: 40px;
+    }
+    .type-start {
+        left: 80%;
+    }
+    .item-text {
+        margin-top: 24px;
+    }
+    /* ===========banner part end============ */
+    /* ===========view demo part start========== */
+    .project-wrep {
+        height: 350px;
+        margin-bottom: 24px;
+    }
+    .overlay a {
+        font-size: 9px;
+    }
+    .project-wreper {
+        height: 350px;
+    }
+    /* ===========view demo part end============ */
+    /* ===========awesome part start========== */
+    #awesome .head h3 {
+        font-size: 40px;
+    }
+    .btn-ful-list button {
+        font-size: 12px;
+        border-radius: 10px;
+    }
+    .btn-ful-list p {
+        font-size: 12px;
+    }
+    .btn-ful-list a {
+        font-size: 12px;
+    }
+    /* ===========awesome part end============ */
+    /* ===========performence part start========== */
+    .performen-item h3 {
+        font-size: 40px;
+    }
+    .performance-chart h4 {
+        font-size: 40px;
+    }
+    .progress-bar .progress {
+        height: 40px;
+    }
+    .progress-bar {
+        height: 40px;
+    }
+    /* ===========performence part end============ */
+    /* ===========castomer part start========== */
+    .costomer-head h3 {
+        font-size: 40px;
+    }
+    .castom-item {
+        max-width: 400px;
+        margin: 0 auto;
+    }
+    /* ===========castomer part end============ */
+    /* ===========Faq part start========== */
+    .faq-text h3 {
+        font-size: 40px;
+    }
+    .sroch-faq-item {
+        max-width: 400px;
+        margin: 50px auto;
+    }
+    /* ===========Faq part end============ */
+    /* ===========my potfoliow part start========== */
+    .percs-item h3 {
+        font-size: 40px;
+    }
+    .back-to-top {
+        display: none !important;
+    }
+    /* ===========my potfoliow part end============ */
+}
+@media(max-width:575.99px){
+    /* ===========Navber part start========== */
+    .navbar.sticke-menu {
+        padding-top: 0px;
+        padding-bottom: 0px;
+    }
+    .navbar {
+        position: sticky;
+    }
+    /* ===========Navber part end============ */
+    /* ===========banner part start========== */
+    #banner {
+        padding: 40px 0px;
+    }
+    .back-text .main {
+        padding-right: 0px;
+        font-size: 27px;
+    }
+    .typed_wrap h1 {
+        font-size: 29px;
+    }
+    .type-start {
+        left: 73%;
+    }
+    .item-text {
+        margin-top: 24px;
+        max-width: 350px;
+        margin: 24px auto;
+    }
+    /* ===========banner part end============ */
+    /* ===========service-all-list part start========== */
+    .project-wrep {
+        margin-top: 24px;
+    }
+    .project-wrep {
+        height: 400px;
+        max-width: 350px;
+        margin: 12px auto;
+    }
+    .overlay a {
+        font-size: 12px;
+    }
+    .project-wreper {
+        height: 400px;
+        max-width: 350px;
+        margin: 12px auto;
+    }
+    /* ===========service-all-list part end============ */
+    /* ===========awesome part start========== */
+    #awesome .head h3 {
+        font-size: 30px;
+    }
+    #awesome .head p {
+        font-size: 15px;
+    }
+    .btn-ful-list button {
+        font-size: 12px;
+        border-radius: 10px;
+    }
+    .btn-ful-list p {
+        font-size: 12px;
+    }
+    .btn-ful-list a {
+        font-size: 12px;
+    }
+    .item-textawe {
+        max-width: 350px;
+        margin: 12px auto;
+    }
+    /* ===========awesome part end=========== */
+    /* ===========perforfence part start===== */
+    .performance-chart h4 {
+        font-size: 30px;
+        margin-top: 20px;
+    }
+    .performen-item h3 {
+        font-size: 30px;
+    }
+    .progress-bar {
+        height: 35px;
+    }
+    /* ===========perforfence part end======= */
+    /* ===========castomer part start========== */
+    .costomer-head h6 {
+        font-size: 12px;
+    }
+    .costomer-head h3 {
+        font-size: 30px;
+    }
+    .castom-item {
+        height: 425px;
+        max-width: 350px;
+        margin: 0 auto;
+    }
+    /* ===========castomer part end============ */
+    /* ===========Faq part start========== */
+    .faq-text h3 {
+        font-size: 30px;
+    }
+    .percs-item h3 {
+        font-size: 30px;
+    }
+    .coppy-text p {
+        text-align: center !important;
+    }
+    .back-to-top {
+        display: none !important;
+    }
+    .sroch-faq-item {
+        margin-top: 50px;
+        max-width: 350px;
+        margin: 50px auto;
+    }
+    /* ===========Faq part end============ */
+}
